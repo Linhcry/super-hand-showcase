@@ -18,13 +18,22 @@ This repository contains public technical documentation, design diagrams, experi
 
 ## Demonstration
 
-[![Complete four-poem-length route at 10× playback](media/finals-replay.gif)](media/finals-four-poems-10x.mp4)
+[![Complete four-poem-length route at 10× playback](media/finals-replay.gif)](https://github.com/user-attachments/assets/66a06ac5-ece7-43a9-a647-a8b625bb5fac)
 
-[MP4 video](media/finals-four-poems-10x.mp4) · [Media provenance](media/README.md)
+[MP4 video](https://github.com/user-attachments/assets/66a06ac5-ece7-43a9-a647-a8b625bb5fac) · [Media provenance](media/README.md)
 
 The historical demonstration repeats **Shan Cun Yong Huai four times**, producing an 80-character, 420-stroke route. It covers preparation, grasping, lifting, ink dipping, writing, re-dipping, release and return. Recorded competition actions take 283.777 seconds, followed by 10.721 seconds of return motion.
 
 This is a kinematic replay with model-level checks. Grasp/contact dynamics and a complete hardware run were not validated by this recording.
+
+<details>
+<summary>Play the complete 10× replay in this page</summary>
+
+https://github.com/user-attachments/assets/66a06ac5-ece7-43a9-a647-a8b625bb5fac
+
+</details>
+
+[Download the original MP4](https://github.com/Linhcry/super-hand-showcase/raw/refs/heads/main/media/finals-four-poems-10x.mp4)
 
 ## Technical work
 

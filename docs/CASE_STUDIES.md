@@ -14,7 +14,7 @@
 
 ## 决赛演示：四首古诗连续书写
 
-[![四首诗完整回放](../media/finals-replay.gif)](../media/finals-four-poems-10x.mp4)
+[![四首诗完整回放](../media/finals-replay.gif)](https://github.com/user-attachments/assets/66a06ac5-ece7-43a9-a647-a8b625bb5fac)
 
 **目标。** 从工具准备到放回，在四首篇幅、80字的历史方案中组织420个笔画、补墨和跨区域动作。演示文本为《山村咏怀》重复4次，不代表四种不同诗题的识别验收。
 
