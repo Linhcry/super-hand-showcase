@@ -1,0 +1,84 @@
+{
+  "schema": 1,
+  "prepared_on": "2026-11-10",
+  "scope": "Public technical showcase; implementation and raw data private",
+  "finals_kinematic_replay": {
+    "title": "Four-poem historical kinematic replay",
+    "characters": 80,
+    "strokes": 420,
+    "trajectory_samples": 23331,
+    "competition_s": 283.7773618808035,
+    "post_competition_return_s": 10.721351183563456,
+    "total_s": 294.49871306436694,
+    "model_arm_penetration_check_passed": true,
+    "contact_dynamics_validated": false,
+    "hardware_verified": false,
+    "raw_field_parameters_included": false,
+    "text_design": {
+      "title": "山村咏怀",
+      "repetitions": 4,
+      "distinct_poem_titles": 1
+    }
+  },
+  "historical_preliminary_cohort": {
+    "profile": "V147",
+    "cases": 30,
+    "passed": 14,
+    "failed": 16,
+    "hardware_qualification_granted": false
+  },
+  "historical_trajectory_examples": [
+    {
+      "task": "preliminary",
+      "simulation_seconds": 61.96000000011382,
+      "samples": 7745,
+      "qpos_dimensions": 33,
+      "qvel_dimensions": 32,
+      "ctrl_dimensions": 26,
+      "full_process_completed": true,
+      "physical_round_qualified": false
+    },
+    {
+      "task": "final",
+      "simulation_seconds": 190.35999999895452,
+      "samples": 23795,
+      "qpos_dimensions": 33,
+      "qvel_dimensions": 32,
+      "ctrl_dimensions": 26,
+      "full_process_completed": true,
+      "physical_round_qualified": false
+    }
+  ],
+  "software_validation": {
+    "first_full_run": {
+      "passed": 1346,
+      "failed": 36,
+      "skipped": 4
+    },
+    "rerun_original_failed_checks": {
+      "passed": 33,
+      "failed": 3
+    },
+    "new_entry_and_mock_hand_checks": {
+      "passed": 7,
+      "failed": 0
+    },
+    "known_issues_reproduced_before_curation": true,
+    "known_issues": [
+      {
+        "issue": "preliminary observed approach duration",
+        "test_budget_s": 30,
+        "actual_s": 74.9069439443445
+      },
+      {
+        "issue": "whole-writing observed replanning duration",
+        "test_budget_s": 150,
+        "actual_s": 246.88326811618938
+      },
+      {
+        "issue": "scoped tool-clearance interface integration missing"
+      }
+    ]
+  },
+  "no_new_hardware_or_full_round_experiment_performed_for_showcase": true
+}

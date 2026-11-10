@@ -1,0 +1,62 @@
+{
+  "schema": 1,
+  "scope": "Authentic simulation media; no raw field records",
+  "finals_source_video_sha256": "0c83a4011fd5f89ccb6ce7d6f388936c3f3b5a263f937e3dc4f9d7772a5c6479",
+  "finals_video": {
+    "frames": 589,
+    "fps": 20,
+    "duration_s": 29.45,
+    "playback_speed": 10,
+    "mode": "kinematic replay",
+    "contact_dynamics_validated": false,
+    "hardware_verified": false
+  },
+  "preliminary_source_video_sha256": "90c8cd50876a25787ad017c0c3b082ef462e4ee1f45f2a602c5aaa5f634c2334",
+  "preliminary_still_video_time_s": 46.92,
+  "derivatives": {
+    "gif": "Full video sampled at 0.25 video-second intervals; resized to 640x480",
+    "stills": "Original simulation stills or frames extracted from the corresponding recordings"
+  },
+  "files": [
+    {
+      "path": "finals-finish.png",
+      "bytes": 159852,
+      "sha256": "23096c9a5dd85cebcfe5c9b3bd317474657b0cd63498a9e213385be09d79a416"
+    },
+    {
+      "path": "finals-four-poems-10x.mp4",
+      "bytes": 8826205,
+      "sha256": "0c83a4011fd5f89ccb6ce7d6f388936c3f3b5a263f937e3dc4f9d7772a5c6479"
+    },
+    {
+      "path": "finals-grasp.png",
+      "bytes": 150474,
+      "sha256": "674db07c3e576324b158b988edff2865e666f05369bb8c40e508a3091c531748"
+    },
+    {
+      "path": "finals-overview.png",
+      "bytes": 260257,
+      "sha256": "a7d316e6c48d4f39e3d87b25211b0a1ef7c7d6fdf83b0f1be01935a01174f91a"
+    },
+    {
+      "path": "finals-replay.gif",
+      "bytes": 4349698,
+      "sha256": "d80896a61fe5b00ded24dfa7489d0d736669c1f9d2687c0aea3c1f2de918fac3"
+    },
+    {
+      "path": "finals-start.png",
+      "bytes": 144477,
+      "sha256": "b41a06cec0164542c1dae80a6f2483632f2b8237a3672f53c5c92c1ffc3e632a"
+    },
+    {
+      "path": "finals-writing.png",
+      "bytes": 264023,
+      "sha256": "eb42f62e5b76d6c246d069f7d3f134862e1517f1a06e61f78ba30cb44f237541"
+    },
+    {
+      "path": "preliminary-simulation.png",
+      "bytes": 427027,
+      "sha256": "3909ff59fc07583ad2faa6731981abe12ae4fb0ad322b6f2c89d9954d305bc55"
+    }
+  ]
+}

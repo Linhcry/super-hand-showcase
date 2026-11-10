@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "model": "Historical RGB-D Segmenter",
+  "parameters": 119176,
+  "image_size": [
+    256,
+    256
+  ],
+  "input_channels": 4,
+  "classes": [
+    "background",
+    "table",
+    "stand",
+    "inkstone",
+    "paper",
+    "robot",
+    "brush",
+    "display"
+  ],
+  "validation_fixture_mIoU": 0.9150016009807587,
+  "metric_classes": [
+    "stand",
+    "inkstone",
+    "paper",
+    "brush"
+  ],
+  "metric_source": "value saved in historical checkpoint; not re-evaluated for this showcase",
+  "original_checkpoint_sha256": "3d9bbaf1c8645f1f2b3d4dd8a21bc30de7abd74692c4474aae767b84358d3598",
+  "weights_distributed": false,
+  "hardware_validated": false,
+  "recorded_training_configuration": {
+    "seed": 1044,
+    "synthetic_samples": 320,
+    "epochs": 40,
+    "batch_size": 16,
+    "learning_rate": 0.00035,
+    "device": "cuda",
+    "position_randomization_mm": 40,
+    "rotation_randomization_deg": 15
+  },
+  "configuration_is_not_proof_of_completed_dataset_or_epochs": true
+}
