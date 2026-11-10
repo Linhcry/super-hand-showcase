@@ -15,7 +15,8 @@
   "preliminary_still_video_time_s": 46.92,
   "derivatives": {
     "gif": "Full video sampled at 0.25 video-second intervals; resized to 640x480",
-    "stills": "Original simulation stills or frames extracted from the corresponding recordings"
+    "stills": "Original simulation stills or frames extracted from the corresponding recordings",
+    "web_video": "H.264, yuv420p, CRF 20, faststart; all 589 original frames at 20fps, no cuts or synthetic frames"
   },
   "files": [
     {
@@ -57,8 +58,13 @@
       "path": "preliminary-simulation.png",
       "bytes": 427027,
       "sha256": "3909ff59fc07583ad2faa6731981abe12ae4fb0ad322b6f2c89d9954d305bc55"
+    },
+    {
+      "path": "finals-four-poems-10x-web.mp4",
+      "bytes": 2328381,
+      "sha256": "90c21d6f1af54d0b11ceb7c452f423493ffb0ffe07b37e1884f9157ecef4b8e1"
     }
   ],
-  "playback_url": "https://github.com/user-attachments/assets/66a06ac5-ece7-43a9-a647-a8b625bb5fac",
+  "playback_url": "https://github.com/user-attachments/assets/3ac18e4b-538f-496f-aa1b-ab49cad54b14",
   "original_download_url": "https://github.com/Linhcry/super-hand-showcase/raw/refs/heads/main/media/finals-four-poems-10x.mp4"
 }

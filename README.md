@@ -23,17 +23,17 @@ Super Hand围绕一个具体问题展开：机械臂如何用五指手拿稳毛�
 
 ## 先看效果
 
-[![四首古诗完整路线10倍速回放](media/finals-replay.gif)](https://github.com/user-attachments/assets/66a06ac5-ece7-43a9-a647-a8b625bb5fac)
+![四首古诗完整路线10倍速回放](media/finals-replay.gif)
 
 **四首篇幅 · 80字 · 完整路线10倍速运动学回放**<br>
-[播放完整视频](https://github.com/user-attachments/assets/66a06ac5-ece7-43a9-a647-a8b625bb5fac) · [演示说明与来源](media/README.md)
+[播放完整视频](https://github.com/user-attachments/assets/3ac18e4b-538f-496f-aa1b-ab49cad54b14) · [演示说明与来源](media/README.md)
 
 录像覆盖准备、握笔、提笔、蘸墨、连续书写、补墨、放回和返回。比赛动作计时283.78秒，赛后返回10.72秒。历史演示采用《山村咏怀》重复4次，展示80字路线组织；它不是四个不同诗题的识别验收。原视频中的运动学、接触与实机验证说明完整保留。
 
 <details>
 <summary>在当前页面播放完整视频（10倍速）</summary>
 
-https://github.com/user-attachments/assets/66a06ac5-ece7-43a9-a647-a8b625bb5fac
+https://github.com/user-attachments/assets/3ac18e4b-538f-496f-aa1b-ab49cad54b14
 
 </details>
 
